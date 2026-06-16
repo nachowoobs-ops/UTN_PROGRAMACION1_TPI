@@ -70,4 +70,5 @@ PARTICIPACIÓN DE LOS INTEGRANTES:
 Nombre: IGNACIO WOOBS Participación: Desarrollo completo del sistema,manejo de archivo csv, readme y documentacion y pruebas.
 Nombre: MAXIMILIANO OVIEDO Participación:Encargado del desarrollo del repositorio del GITHUB.
 
-TRABAJO PRACTICO INTEGRADOR-PROGRAMACION EN PYTHON-UTN 2026
+TRABAJO PRACTICO INTEGRADOR-PROGRAMACION EN PYTHON-UTN-2026.
+
