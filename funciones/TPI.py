@@ -13,7 +13,7 @@ if not os.path.exists("archivo.csv"):
 print("El archivo.csv se ha creado correctamente. ")
 #La primera linea se importa el csv para poder trabajar con las mismas, luego se importa os para trabajar con el sistema operativo,en este caso para verificar la existencia de un archivo.
 #Luego la linea 3 verifica si el archivo existe, su salida es true si existe o false si no existe. Si el archivo no existe entra al if, si existe no entra para no sobrescribirlo.
-#En la linea 5 tenemos la creacion del archivo csv que abarca hasta la linea 12.
+#En la linea 5 tenemos la creacion del archivo csv que abarca hasta la linea 12..
 #=====VALIDACIONES=====
 def pedir_entero(mensaje):
     continuar_=True
