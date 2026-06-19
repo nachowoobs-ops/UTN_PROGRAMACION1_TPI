@@ -69,6 +69,9 @@ Conceptos aplicados en el proyecto:
 Link del video explicativo:
 https://youtu.be/_QwN4RWGlmw
 
+link de la documentación académica:
+https://drive.google.com/file/d/1n_sFAfCmewTcmLruzn5qMF7SX9KQAWcB/view?usp=drive_link
+
 PARTICIPACIÓN DE LOS INTEGRANTES:
 Nombre: IGNACIO WOOBS Participación: Desarrollo completo del sistema,manejo de archivo csv, readme y documentacion y pruebas.
 Nombre: MAXIMILIANO OVIEDO Participación:Encargado del desarrollo del repositorio del GITHUB.
