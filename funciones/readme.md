@@ -66,6 +66,9 @@ Conceptos aplicados en el proyecto:
 .Estadísticas básicas
 .Lectura, escritura y autoguardado de archivo CSV
 
+Link del video explicativo:
+https://youtu.be/_QwN4RWGlmw
+
 PARTICIPACIÓN DE LOS INTEGRANTES:
 Nombre: IGNACIO WOOBS Participación: Desarrollo completo del sistema,manejo de archivo csv, readme y documentacion y pruebas.
 Nombre: MAXIMILIANO OVIEDO Participación:Encargado del desarrollo del repositorio del GITHUB.
